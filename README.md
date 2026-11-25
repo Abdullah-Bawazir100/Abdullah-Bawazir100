@@ -71,6 +71,7 @@ I am **Abdullah Bawazir**, a passionate **Backend Developer** specializing in **
 ### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
 ### 🧰 DevOps, Testing & Developer Tools
