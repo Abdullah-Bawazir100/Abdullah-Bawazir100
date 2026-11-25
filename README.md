@@ -5,7 +5,7 @@
 
 <!-- Static Title & Subtitle -->
 <div align="center">
-  <h1>👋 Hi there, I'm Abdullah Bawazir</h1>
+  <h1>👋 Hi, I'm Abdullah Salem Bawazir</h1>
   <h3>🚀 Backend Developer &nbsp;|&nbsp; PHP & Laravel RESTful APIs</h3>
 </div>
 
