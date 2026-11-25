@@ -17,8 +17,7 @@
     <img src="https://img.shields.io/badge/Email-bawzyr339%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <!-- Replace YOUR_LINKEDIN_USERNAME with your actual LinkedIn profile slug -->
-  <a href="[https://www.linkedin.com/in/abdullah-bawazir339](https://www.linkedin.com/in/abdullah-bawazir339/)" target="_blank">
+  <a href="https://www.linkedin.com/in/abdullah-bawazir339/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
