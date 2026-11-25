@@ -38,8 +38,6 @@ I am **Abdullah Bawazir**, a passionate **Backend Developer** specializing in **
 - 🧠 **Focus areas:** Clean Architecture, SOLID principles, API Security, and Query Optimization.
 - 🔐 **API Expertise:** Authentication & Authorization (`Laravel Sanctum`), RBAC, Rate Limiting, and Queues.
 - 🤝 **Open to:** Backend development roles, freelance API projects, and open-source collaboration.
-- 📫 **Reach me at:** [bawzyr339@gmail.com](mailto:bawzyr339@gmail.com)
-
 ---
 
 ## 🚀 Core Backend Expertise
